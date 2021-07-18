@@ -1,1 +1,1 @@
-debug main.cpp
+i want to use data
