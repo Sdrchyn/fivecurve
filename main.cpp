@@ -1,3 +1,4 @@
+//changed by sin Sdrchyn@163.com from ubuntu.
 #include <iostream>
 #include <stdio.h>
 #include "main.h"
